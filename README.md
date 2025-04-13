@@ -1,1 +1,1 @@
-# AppointmentManagementPlatfor
+# AppointmentManagementPlatform
